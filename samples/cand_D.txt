@@ -1,0 +1,2 @@
+候選人 D (synthetic) | d@example.com | 台北
+5 年深度學習經驗，PyTorch 與 Python 模型訓練，Docker、Kubernetes 部署。沒有 CUDA 開發經驗。

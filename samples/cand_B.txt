@@ -1,0 +1,2 @@
+Candidate B (synthetic) | b@example.com | Taipei, Taiwan
+6 yrs embedded Linux kernel device driver and firmware engineer. C/C++, PCIe, RTOS. Some Python scripting. No GPU compute work.

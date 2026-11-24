@@ -1,0 +1,6 @@
+﻿candidate,score,must_hit,nice_hit,years,in_target_location,email,phone,reason
+cand_A,93.3,cuda|c++|gpu architecture,pytorch|tensorrt|hpc|llm,8,True,a@example.com,0912-345-678,must 3/3; nice 4/6; yrs=8; sim=0.37; in target location
+cand_C,59.4,cuda|c++,pytorch|hpc,10,False,c@example.com,,must 2/3 (missing: gpu architecture); nice 2/6; yrs=10; sim=0.16; location unclear
+cand_B,53.6,c++|gpu architecture,python|linux kernel,6,True,b@example.com,,must 2/3 (missing: cuda); nice 2/6; yrs=6; sim=0.06; in target location
+cand_D,34.8,cuda,python|pytorch,5,True,d@example.com,,"must 1/3 (missing: c++, gpu architecture); nice 2/6; yrs=5; sim=0.02; in target location"
+cand_E,29.5,gpu architecture,python,2,True,e@example.com,,"must 1/3 (missing: cuda, c++); nice 1/6; yrs=2; sim=0.09; in target location"

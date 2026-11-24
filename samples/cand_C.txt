@@ -1,0 +1,2 @@
+Candidate C (synthetic) | c@example.com | Austin, USA
+10 years CUDA and C++ HPC. GPGPU performance tuning, NCCL, InfiniBand, MPI. PyTorch contributor.

@@ -1,0 +1,8 @@
+{
+  "title": "Senior CUDA / GPU Software Engineer (demo JD)",
+  "must": ["cuda", "c++", "gpu architecture"],
+  "nice": ["python", "pytorch", "tensorrt", "hpc", "llm", "linux kernel"],
+  "years_range": [5, 12],
+  "locations": ["Taiwan", "Taipei", "Hsinchu", "新竹", "台北"],
+  "description": "Design and optimize CUDA kernels and GPU software for deep learning and HPC workloads. Strong C++ and GPU architecture knowledge, profiling and performance tuning, experience with PyTorch, TensorRT or LLM inference. Collaborate across hardware and software teams in Taiwan."
+}

@@ -1,0 +1,2 @@
+Candidate A (synthetic) | a@example.com | 0912-345-678 | Hsinchu, Taiwan
+8 years experience in GPU software. Wrote CUDA kernels in modern C++ for LLM inference, TensorRT plugins, PyTorch custom ops. Deep understanding of GPU architecture, SM occupancy, memory hierarchy. HPC cluster work with MPI and Slurm.

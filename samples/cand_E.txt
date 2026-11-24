@@ -1,0 +1,2 @@
+Candidate E (synthetic) | e@example.com | Hsinchu, Taiwan
+2 years ASIC design verification with UVM and SystemVerilog. Python scripting for regression. Interested in GPU.
